@@ -1,1 +1,1 @@
-# LAN-Chess
+# network Chess
